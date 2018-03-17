@@ -1,7 +1,7 @@
 'use strict';
 
 // COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
-// PUT YOUR RESPONSE HERE
+// This object's key/value pairs are sorted into their respective html elements in a single prebuilt template, which is then cloned for each object contained within the array rawData.
 
 let rawData = [
   {

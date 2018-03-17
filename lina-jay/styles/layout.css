@@ -23,14 +23,6 @@
     clear: both;
 }
 
-/*.hamburger:hover > .nav-list-ul{
-    display: block;  
-} 
- .hamburger:hover .nav-list-ul { 
-    display: block;
-}  */
-
-
 article {
     padding: 1.5%;
 }
@@ -55,13 +47,6 @@ article {
         list-style-type: none;
         margin-left: -5%;
     }
-    /* hr {
-        display:block;
-        height:1px;
-        border:0;
-        border-bottom:1px solid #d8d8d8;
-        margin:5% 0px;
-    }    */
 }
 
 @media only screen and (min-width: 641px) {
@@ -78,9 +63,6 @@ article {
         text-decoration: none; 
     }
     .hamburger {
-        display: none;
-    }
-    hr {
         display: none;
     }
     

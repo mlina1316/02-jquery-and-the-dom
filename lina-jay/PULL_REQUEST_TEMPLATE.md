@@ -1,5 +1,5 @@
 #### Single-line Summary
-**Today,Jay and Lina paired together. It took about 10 hours**
+**This took about 3 hours**
 
 #### Reflect and summarize on your process for each `TODO` item :  
   1. First, we started on our mobile app.
